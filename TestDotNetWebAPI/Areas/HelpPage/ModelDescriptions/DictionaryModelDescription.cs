@@ -1,0 +1,6 @@
+namespace TestDotNetWebAPI.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}

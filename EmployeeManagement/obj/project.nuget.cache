@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DG2lOCHztBdwIgAeZVVYD1/SId5HjWUbEHJbwRUewuN4qLk1UBuQ2Ygkn7C5V4/MS8KYEObI8lJFJeCpuef9wg==",
+  "success": true,
+  "projectFilePath": "C:\\Amit\\TestDotNetCore\\EmployeeManagement\\EmployeeManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amitg\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
